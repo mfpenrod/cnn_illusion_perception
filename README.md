@@ -1,4 +1,4 @@
-## Implementation of "Perceptual Representations of Optical Illusions in Deep Vision Networks" – Mark Penrod
+##"Perceptual Representations of Optical Illusions in Deep Vision Networks"
 
 Final project for Neuro240 Biological and Artificial Intelligence
 
