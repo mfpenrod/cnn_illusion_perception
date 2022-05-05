@@ -1,4 +1,4 @@
-## "Perceptual Representations of Optical Illusions in Deep Vision Networks"
+## Perceptual Representations of Optical Illusions in Deep Vision Networks
 
 Final project for Neuro240 Biological and Artificial Intelligence
 
